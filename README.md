@@ -75,7 +75,7 @@ Commands can be used in all channels and do not need to be executed in your live
 
 ---
 
-## RATE LIMIT
+## Rate Limits
 
 20 requests every 1 seconds  
 100 requests every 2 minutes
@@ -84,7 +84,7 @@ These are the standard rate limits for non production keys. The bot will exceed 
 
 ---
 
-## TODO
+## Todo
 
 -  Public Alpha Testing
 -  !game command
